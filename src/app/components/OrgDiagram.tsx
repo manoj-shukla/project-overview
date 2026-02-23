@@ -172,7 +172,7 @@ export function OrgDiagram() {
                     </div>
                     <div>
                       <p className="font-semibold text-sm text-slate-800">Developers</p>
-                      <p className="text-xs text-slate-600">Muez, Rashid, Salman, John</p>
+                      <p className="text-xs text-slate-600">Added from 🟢 Maintenance &amp; 🟢 Integration as &amp; when required</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
@@ -189,8 +189,7 @@ export function OrgDiagram() {
                       QA
                     </div>
                     <div>
-                      <p className="font-semibold text-sm text-slate-800">QA Team</p>
-                      <p className="text-xs text-slate-600">Irfan, Others</p>
+                      <p className="font-semibold text-sm text-slate-800">QA Team As per requirement</p>
                     </div>
                   </div>
                 </div>
@@ -302,7 +301,7 @@ export function OrgDiagram() {
                     </div>
                     <div>
                       <p className="font-semibold text-sm text-slate-800">Developers</p>
-                      <p className="text-xs text-slate-600">Muez, Rashid, Salman, John</p>
+                      <p className="text-xs text-slate-600">Salman</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
@@ -430,7 +429,7 @@ export function OrgDiagram() {
                     </div>
                     <div>
                       <p className="font-semibold text-sm text-slate-800">Developers</p>
-                      <p className="text-xs text-slate-600">Muez, Rashid, Salman, John</p>
+                      <p className="text-xs text-slate-600">Muez, Rashid, John</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
