@@ -172,7 +172,7 @@ export function OrgDiagram() {
                     </div>
                     <div>
                       <p className="font-semibold text-sm text-slate-800">Developers</p>
-                      <p className="text-xs text-slate-600">Added from 🟢 Maintenance &amp; 🟢 Integration as &amp; when required</p>
+                      <p className="text-xs text-slate-600">Devs will be assigned as and when required</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
